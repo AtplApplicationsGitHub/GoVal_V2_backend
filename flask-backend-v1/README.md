@@ -2,7 +2,5 @@
 
 Flask Backend API 
 
-Have implemented User Registration & Login
-JWT Authentication & Token Generation
-Profile Management (Read, Update, Delete)
-SQLAlchemy Database Models with Migrations
+
+Have implemented User Registration & Login, JWT Authentication & Token Generation, Profile Management (Read, Update, Delete), SQLAlchemy Database Models with Migrations.
