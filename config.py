@@ -19,4 +19,4 @@ class Config:
         raise ValueError("JWT_SECRET_KEY is not set in the environment!")
 
     # CORS settings
-    CORS_ORIGINS = os.environ.get('CORS_ORIGINS', 'http://148.113.13.22:*')  # '*' for dev, specify in prod
+    CORS_ORIGINS = os.environ.get('CORS_ORIGINS', 'https://*:*')  # '*' for dev, specify in prod
